@@ -1,2 +1,2 @@
-# froloop
+# for loop
 for loop program
